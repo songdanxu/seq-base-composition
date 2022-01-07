@@ -1,4 +1,4 @@
-# seq-base-composition
+# seq_base_composition
 ### fuction
 You can use this script to calcaulate the overall base composition and (A+T) or (C+G) bias.
 ### example
